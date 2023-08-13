@@ -1,0 +1,15 @@
+F:\C#\ConsoleOutput\ConsoleApp1\bin\Debug\net7.0\ConsoleOutput.exe
+F:\C#\ConsoleOutput\ConsoleApp1\bin\Debug\net7.0\ConsoleOutput.deps.json
+F:\C#\ConsoleOutput\ConsoleApp1\bin\Debug\net7.0\ConsoleOutput.runtimeconfig.json
+F:\C#\ConsoleOutput\ConsoleApp1\bin\Debug\net7.0\ConsoleOutput.dll
+F:\C#\ConsoleOutput\ConsoleApp1\bin\Debug\net7.0\ConsoleOutput.pdb
+F:\C#\ConsoleOutput\ConsoleApp1\obj\Debug\net7.0\ConsoleOutput.csproj.AssemblyReference.cache
+F:\C#\ConsoleOutput\ConsoleApp1\obj\Debug\net7.0\ConsoleOutput.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\ConsoleOutput\ConsoleApp1\obj\Debug\net7.0\ConsoleOutput.AssemblyInfoInputs.cache
+F:\C#\ConsoleOutput\ConsoleApp1\obj\Debug\net7.0\ConsoleOutput.AssemblyInfo.cs
+F:\C#\ConsoleOutput\ConsoleApp1\obj\Debug\net7.0\ConsoleOutput.csproj.CoreCompileInputs.cache
+F:\C#\ConsoleOutput\ConsoleApp1\obj\Debug\net7.0\ConsoleOutput.dll
+F:\C#\ConsoleOutput\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleOutput.dll
+F:\C#\ConsoleOutput\ConsoleApp1\obj\Debug\net7.0\ConsoleOutput.pdb
+F:\C#\ConsoleOutput\ConsoleApp1\obj\Debug\net7.0\ConsoleOutput.genruntimeconfig.cache
+F:\C#\ConsoleOutput\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleOutput.dll
